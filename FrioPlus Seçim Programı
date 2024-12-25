@@ -1,0 +1,35 @@
+FrioPlus Seçim Programı, endüstriyel soğutma cihazlarını doğru şekilde seçebilmeniz için geliştirilmiş bir yazılımdır. Kullanıcıların belirlediği çalışma şartlarına göre en uygun cihazları ve teknik detayları sunar.
+
+Özellikler
+SC1, SC2, SC3, SC4 ve SC5 çalışma şartlarına uygun seçim yapma.
+Enerji tüketimi analizleri ile cihazların güç tüketimi bilgilerini görüntüleme.
+Seçilen cihazların teknik dökümanlarını ve görsellerini PDF olarak indirme.
+Kullanıcı dostu arayüz ve kolay filtreleme seçenekleri.
+Kullanılan Teknolojiler
+Programlama Dili: PHP
+Veritabanı: MySQL
+Arayüz: Bootstrap 4, jQuery
+Ekran Görüntüleri
+Ana Sayfa:
+
+Cihaz Teknik Detayları:
+
+Nasıl Kullanılır?
+Programda çalışma şartlarını (örneğin SC3) seçin.
+Gerekli filtreleme seçeneklerini kullanarak cihaz arayın.
+Sonuçlar listelendiğinde, cihaz teknik bilgilerini ve enerji tüketim bilgilerini görüntüleyin.
+PDF oluştur butonuyla teknik dökümanları indirin.
+Enerji Tüketim Bilgileri
+Cihazların enerji tüketim bilgileri çalışma saatlerine göre detaylandırılmıştır. Örneğin:
+
+Günlük Tüketim: 18 saat çalışma süresi ile 326.27 kW.
+Aylık Tüketim: 540 saat çalışma süresi ile 9,788.18 kW.
+Programın Avantajları
+Kullanıcıların ihtiyaçlarına göre hızlı ve doğru cihaz seçimi sağlar.
+Teknik dökümanlar ve enerji tüketimi bilgileri sayesinde maliyet analizleri yapılabilir.
+Detaylı filtreleme ve görselleştirme seçenekleri ile kullanıcı dostudur.
+Kurulum ve Çalıştırma
+Dosyaları bir web sunucusuna yükleyin (örneğin XAMPP).
+MySQL veritabanını yapılandırın ve gerekli tabloları oluşturun.
+Tarayıcıdan programın ana sayfasına erişin ve kullanmaya başlayın.
+
